@@ -4,6 +4,7 @@ import csv
 
 filepath = os.path.join( "..",'Resources','election_data.csv')
 file_output = "Election_results.txt"
+
 #defining numerous variables
 
 totalcount = 0; 
